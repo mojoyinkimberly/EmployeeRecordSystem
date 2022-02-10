@@ -1,0 +1,5 @@
+[
+  { "op": "replace", "path": "/address", "value": "festac" },
+  { "op": "replace", "path": "/lastName", "value": "Wisdom" },
+  { "op": "replace", "path": "/email", "value": "wisdom@gmail.com" }
+]
